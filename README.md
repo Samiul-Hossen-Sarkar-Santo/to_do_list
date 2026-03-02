@@ -1,5 +1,3 @@
-//Write me the entire Readme.md for this project
-
 # Modern Todo List App
 
 A sleek and feature-rich todo list application built with Flutter, featuring a modern UI design with dark/light theme support.
